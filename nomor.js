@@ -1,3 +1,3 @@
 module.exports = {
-  nomor: '+62XXXXXXXXXXX' // Ganti dengan nomor kamu (kode negara + nomor)
+  nomor: '+6281254936213' // Ganti dengan nomor kamu (kode negara + nomor)
 };
